@@ -1,0 +1,14 @@
+{
+  "name": "kanelu-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "ci": "npm run docker:build && npm run docker:push",
+    "docker:build": "docker build -t yvkam/kanelu-web .",
+    "docker:push": "docker push yvkam/kanelu-web"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
