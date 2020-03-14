@@ -1,0 +1,42 @@
+{
+  "menu": {
+    "home": "Acceuil",
+    "about": "A propos",
+    "services": "Services",
+    "contact": "Contact"
+  },
+  "home": {
+    "slogan": "Votre partner 2.0 de digitalisation<br>de vos petites et grandes entreprises",
+    "more": "Contactez-vous"
+  },
+  "about": {
+    "title": "A propos de nous",
+    "reliable.title": "Fiabilité",
+    "reliable.description": "Nous utilisons des technologies modernes, testés et validés par l'industrie du developpement logiciel. Nous suivons de près l'evolution et les tendances afin d'offrir à nos clients des logiciels fiables, robustes et sécurisés.",
+    "e2e.title": "Developpement End to end",
+    "e2e.description": "Vous n'avez rien à faire, notre équipe d'ingenieur s'occupe de tout le processus da la mise en place de votre logiciel: l'acquisition des besoins, le developpement, e deploiement de votre logiciel, etc.",
+    "tailor.title": "Fait sur mésure",
+    "tailor.description": "Nous mettons toujours le client au centre du processus afin de construire un produit qui lui ressemble et qui correspond à ses besoins..",
+    "deliver.title": "Respect de delais",
+    "deliver.description": "Le but n'est pas seulement de faire le boulot mais ce de le faire de manière excellente en respectant les delais convenus. Nous lirvons toujours dans les délais et nos clients peuvent en témoigner!"
+  },
+  "services": {
+    "title": "Nos services",
+    "website.title": "Site internet",
+    "website.description": "Site vitrine, ecommerce, hebergement, référencement, nous nous occupons de  votre présence sur internet",
+    "softwaredev.title": "Développement logiciel",
+    "softwaredev.description": "Application mobile, application de bureau or application web, nous mettons en place des logiciels modernes et sécurisés avec des interfaces intuitives",
+    "consulting.title": "Consultance",
+    "consulting.description": "Notre équipe de passionnés est prête pour apporter son expertise dans votre compagnie et vous aider à digitaliser vos processus.",
+    "services": "services"
+  },
+  "contact": {
+    "title": "Contact",
+    "getintouch": "Contactez-bous",
+    "location": "Nous sommes à Kinshasa et Bruxelles",
+    "email": "kanelu@gmail.com",
+    "mobilephone1": "+243 975252604",
+    "mobilephone2": "+32 491196513",
+    "findus": "Réseaux sociaux"
+  }
+}

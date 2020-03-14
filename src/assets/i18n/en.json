@@ -1,0 +1,42 @@
+{
+  "menu": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "contact": "Contact"
+  },
+  "home": {
+    "slogan": "Your partner 2.0 for the digitalisation<br>of your small and big Business",
+    "more": "Get in touch"
+  },
+  "about": {
+    "title": "Learn More About Us",
+    "reliable.title": "Reliable",
+    "reliable.description": "We use modern technologies that are proven and used across the industry. We stay up to date and consistently renew our knowledge.",
+    "e2e.title": "End to end development",
+    "e2e.description": "Our engineering team is ready to handle every stage of your software lifecycle from the requirements to the deployment",
+    "tailor.title": " Tailor made",
+    "tailor.description": " We always put the customer in the center of our development in order to build a software a software that fully his need. We treat every problem as unique.",
+    "deliver.title": "Deliver on time",
+    "deliver.description": "We don't only commit to the job but we commit to do the job well and deliver on time.Our customers can testify it!"
+  },
+  "services": {
+    "title": "Our Services",
+    "website.title": "Web site",
+    "website.description": "Development, hosting, SEO (Search Engine Optimization), ecommerce, we can take in charge your presence in the web",
+    "softwaredev.title": "Software development",
+    "softwaredev.description": "Mobile, desktop or web application, we build modern and secure software with intuitive UI",
+    "consulting.title": "Consulting",
+    "consulting.description": "Our passionate software engineers are ready to bring their knowledge in your company to help to take it to next level.",
+    "services": "services"
+  },
+  "contact": {
+    "title": "Contact",
+    "getintouch": "Get in touch",
+    "location": "We are in Kinshasa and Bruxelles",
+    "email": "kanelu@gmail.com",
+    "mobilephone1": "+243 975252604",
+    "mobilephone2": "+32 491196513",
+    "findus": "Find us"
+  }
+}

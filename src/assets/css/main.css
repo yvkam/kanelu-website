@@ -1,4 +1,5 @@
 @import url("https://fonts.googleapis.com/css?family=Montserrat:400,500,700");
+
 html {
   overflow-x: hidden;
 }
@@ -192,6 +193,15 @@ button:focus {
 
 .social-icon .google:hover {
   background: #CE332A;
+}
+
+.social-icon .lang:hover {
+  background: #4297e0;
+}
+
+.social-icon .lang-selected {
+  color: #fff !important;
+  background: #4297e0;
 }
 
 /* ScrollToTop */
@@ -623,17 +633,21 @@ hr {
   .navbar-header {
     width: 100%;
   }
+
   .navbar-brand {
     position: absolute;
     padding: 15px 15px;
     top: 0;
   }
+
   .navbar-brand img {
     width: 75%;
   }
+
   .slicknav_menu {
     display: block;
   }
+
   .slicknav_nav a:hover,
   .slicknav_nav a:focus,
   .slicknav_nav .active {
@@ -647,24 +661,30 @@ hr {
   .navbar-header {
     width: 100%;
   }
+
   .navbar-brand {
     position: absolute;
     padding: 7px 15px;
     top: 0;
   }
+
   .navbar-brand img {
     width: 75%;
   }
+
   #mobile-menu {
     display: none;
   }
+
   .slicknav_menu {
     display: block;
   }
+
   .slicknav_nav .active a {
     background: #E91E63;
     color: #fff;
   }
+
   .slicknav_nav a:hover,
   .slicknav_nav a:focus,
   .slicknav_nav .active {
