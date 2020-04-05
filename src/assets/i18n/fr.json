@@ -6,18 +6,18 @@
     "contact": "Contact"
   },
   "home": {
-    "slogan": "Votre partner 2.0 de digitalisation<br>de vos petites et grandes entreprises",
+    "slogan": "Votre partenaire digital 2.0",
     "more": "Contactez-vous"
   },
   "about": {
     "title": "A propos de nous",
-    "reliable.title": "Fiabilité",
+    "reliable.title": "FIABILITÉ",
     "reliable.description": "Nous utilisons des technologies modernes, testés et validés par l'industrie du developpement logiciel. Nous suivons de près l'evolution et les tendances afin d'offrir à nos clients des logiciels fiables, robustes et sécurisés.",
-    "e2e.title": "Developpement End to end",
+    "e2e.title": "DEVELOPPEMENT END TO END",
     "e2e.description": "Vous n'avez rien à faire, notre équipe d'ingenieur s'occupe de tout le processus da la mise en place de votre logiciel: l'acquisition des besoins, le developpement, e deploiement de votre logiciel, etc.",
-    "tailor.title": "Fait sur mésure",
+    "tailor.title": "FAIT SUR MÉSURE",
     "tailor.description": "Nous mettons toujours le client au centre du processus afin de construire un produit qui lui ressemble et qui correspond à ses besoins..",
-    "deliver.title": "Respect de delais",
+    "deliver.title": "RESPECT DE DELAIS",
     "deliver.description": "Le but n'est pas seulement de faire le boulot mais ce de le faire de manière excellente en respectant les delais convenus. Nous lirvons toujours dans les délais et nos clients peuvent en témoigner!"
   },
   "services": {

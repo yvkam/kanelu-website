@@ -6,18 +6,19 @@
     "contact": "Contact"
   },
   "home": {
-    "slogan": "Your partner 2.0 for the digitalisation<br>of your small and big Business",
+    "slogan": "Your digit partner 2.0",
+    "slogan.subtitle": "Your digit partner 2.0",
     "more": "Get in touch"
   },
   "about": {
     "title": "Learn More About Us",
-    "reliable.title": "Reliable",
+    "reliable.title": "RELIABLE",
     "reliable.description": "We use modern technologies that are proven and used across the industry. We stay up to date and consistently renew our knowledge.",
-    "e2e.title": "End to end development",
+    "e2e.title": "END TO END DEVELOPMENT",
     "e2e.description": "Our engineering team is ready to handle every stage of your software lifecycle from the requirements to the deployment",
-    "tailor.title": " Tailor made",
+    "tailor.title": " TAILOR MADE",
     "tailor.description": " We always put the customer in the center of our development in order to build a software a software that fully his need. We treat every problem as unique.",
-    "deliver.title": "Deliver on time",
+    "deliver.title": "DELIVER ON TIME",
     "deliver.description": "We don't only commit to the job but we commit to do the job well and deliver on time.Our customers can testify it!"
   },
   "services": {

@@ -13,7 +13,7 @@ body {
   -moz-box-sizing: border-box;
   box-sizing: border-box;
   -webkit-font-smoothing: subpixel-antialiased;
-  color: #abacae;
+  /*color: #abacae;*/
   line-height: 25px;
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
@@ -375,7 +375,7 @@ hr {
 .services-item {
   padding: 15px;
   border-radius: 4px;
-  text-align: left;
+  text-align: center;
   transition: all 0.3s ease-in-out 0s;
   -moz-transition: all 0.3s ease-in-out 0s;
   -webkit-transition: all 0.3s ease-in-out 0s;
@@ -384,7 +384,7 @@ hr {
 
 .services-item .icon i {
   font-size: 42px;
-  width: 42px;
+  /*width: 42px;*/
   display: block;
   height: 42px;
   color: #137ED9;
@@ -431,7 +431,7 @@ hr {
 }
 
 .top-nav-collapse .navbar-brand img {
-  width: 65%;
+  /*width: 65%;*/
 }
 
 .top-nav-collapse .navbar-nav .nav-link {
@@ -641,7 +641,7 @@ hr {
   }
 
   .navbar-brand img {
-    width: 75%;
+    /*width: 75%;*/
   }
 
   .slicknav_menu {
@@ -669,7 +669,6 @@ hr {
   }
 
   .navbar-brand img {
-    width: 75%;
   }
 
   #mobile-menu {
@@ -1157,7 +1156,7 @@ textarea {
   margin: 20px 0px;
   padding: 3px 55px;
   position: relative;
-  color: #abacae;
+  /*color: #abacae;*/
 }
 
 .contact-right .single-contact p {
@@ -1165,7 +1164,7 @@ textarea {
 }
 
 .contact-right .single-contact p a {
-  color: #abacae;
+  color: #000000;
 }
 
 .contact-right .contact-icon {
