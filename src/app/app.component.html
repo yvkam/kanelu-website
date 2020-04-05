@@ -74,7 +74,10 @@
       <div class="row">
         <div class="col-md-12 col-sm-12">
           <div class="contents text-center mt-3">
-            <h2 class="head-title wow fadeInUp"><span [innerHTML]="'home.slogan' | translate"></span></h2>
+            <h2 class="head-title wow fadeInUp">
+              <span [innerHTML]="'home.slogan' | translate"></span>
+              <p class="subtitle" [innerHTML]="'home.slogan.subtitle' | translate"></p>
+            </h2>
             <div class="header-button wow fadeInUp" data-wow-delay="0.3s">
               <a href="#" class="btn btn-common page-scroll" href="#contact">{{'home.more' | translate}}</a>
             </div>
@@ -235,40 +238,28 @@
       </div>
     </div>
     <div class="row contact-form-area wow fadeInUp" data-wow-delay="0.4s">
-      <div class="col-md-6 col-lg-6 col-sm-12">
+      <div class="col-sm-12 text-center">
         <div class="contact-right-area wow fadeIn">
-          <h2>{{'contact.getintouch' | translate}}</h2>
+          <h5>{{'contact.getintouch' | translate}}</h5>
           <div class="contact-right">
             <div class="single-contact">
-              <div class="contact-icon">
-                <i class="lni-map-marker"></i>
-              </div>
-              <p>{{'contact.location' | translate}}</p>
             </div>
             <div class="single-contact">
-              <div class="contact-icon">
-                <i class="lni-envelope"></i>
-              </div>
-              <p><a [href]="'mailto:'+ ('contact.email' | translate)">{{'contact.email' | translate}}</a></p>
+              <p><a style="font-size: x-large"
+                    [href]="'mailto:'+ ('contact.email' | translate)">{{'contact.email' | translate}}</a></p>
             </div>
             <div class="single-contact">
-              <div class="contact-icon">
-                <i class="lni-phone-handset"></i>
-              </div>
-              <p><a [href]="'tel:'+ ('contact.mobilephone1' | translate)">{{'contact.mobilephone1' | translate}}</a></p>
-              <p><a [href]="'tel:'+ ('contact.mobilephone2' | translate)">{{'contact.mobilephone2' | translate}}</a></p>
+              <p><a style="font-size: large"
+                    [href]="'tel:'+ ('contact.mobilephone1' | translate)">{{'contact.mobilephone1' | translate}}</a></p>
+              <p><a style="font-size: large"
+                    [href]="'tel:'+ ('contact.mobilephone2' | translate)">{{'contact.mobilephone2' | translate}}</a></p>
             </div>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-6 col-lg-6 col-sm-12">
-        <div class="contact-right-area wow fadeIn">
-          <h2>{{'contact.findus' | translate}}</h2>
-          <div class="social-icon">
-            <a class="facebook" href="#"><i class="lni-facebook-filled"></i></a>
-            <a class="twitter" href="#"><i class="lni-twitter-filled"></i></a>
-            <a class="instagram" href="#"><i class="lni-instagram-filled"></i></a>
-            <a class="linkedin" href="#"><i class="lni-linkedin-filled"></i></a>
+            <div class="social-icon">
+              <a class="facebook" href="#"><i class="lni-facebook-filled"></i></a>
+              <a class="twitter" href="#"><i class="lni-twitter-filled"></i></a>
+              <a class="instagram" href="#"><i class="lni-instagram-filled"></i></a>
+              <a class="linkedin" href="#"><i class="lni-linkedin-filled"></i></a>
+            </div>
           </div>
         </div>
       </div>

@@ -6,8 +6,8 @@
     "contact": "Contact"
   },
   "home": {
-    "slogan": "Your digital partner 2.0",
-    "slogan.subtitle": "Your digit partner 2.0",
+    "slogan": "Your partner for your IT projects",
+    "slogan.subtitle": "Delivered on time, on budget and on  scope",
     "more": "Get in touch"
   },
   "about": {
@@ -33,8 +33,7 @@
   },
   "contact": {
     "title": "Contact",
-    "getintouch": "Get in touch",
-    "location": "We are in Kinshasa and Bruxelles",
+    "getintouch": "Feel free to contact us for any project idea or collaboration",
     "email": "kanelu@gmail.com",
     "mobilephone1": "+243 975252604",
     "mobilephone2": "+32 491196513",

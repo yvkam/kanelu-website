@@ -719,6 +719,11 @@ hr {
   margin-bottom: 30px;
 }
 
+#hero-area .contents .head-title .subtitle {
+  color: #585b60;
+  font-size: 18px;
+}
+
 .sloder-img {
   background: #34363a;
 }
