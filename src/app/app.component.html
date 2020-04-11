@@ -239,20 +239,22 @@
     </div>
     <div class="row contact-form-area wow fadeInUp" data-wow-delay="0.4s">
       <div class="col-sm-12 text-center">
-        <div class="contact-right-area wow fadeIn">
+        <div class="wow fadeIn">
           <h5>{{'contact.getintouch' | translate}}</h5>
           <div class="contact-right">
             <div class="single-contact">
             </div>
             <div class="single-contact">
-              <p><a style="font-size: x-large"
-                    [href]="'mailto:'+ ('contact.email' | translate)">{{'contact.email' | translate}}</a></p>
+              <h5><a
+                [href]="'mailto:'+ ('contact.email' | translate)">{{'contact.email' | translate}}</a></h5>
             </div>
             <div class="single-contact">
-              <p><a style="font-size: large"
-                    [href]="'tel:'+ ('contact.mobilephone1' | translate)">{{'contact.mobilephone1' | translate}}</a></p>
-              <p><a style="font-size: large"
-                    [href]="'tel:'+ ('contact.mobilephone2' | translate)">{{'contact.mobilephone2' | translate}}</a></p>
+              <h5><a
+                [href]="'tel:'+ ('contact.mobilephone1' | translate)">{{'contact.mobilephone1' | translate}}</a>
+              </h5>
+              <h5><a
+                [href]="'tel:'+ ('contact.mobilephone2' | translate)">{{'contact.mobilephone2' | translate}}</a>
+              </h5>
             </div>
             <div class="social-icon">
               <a class="facebook" href="#"><i class="lni-facebook-filled"></i></a>
